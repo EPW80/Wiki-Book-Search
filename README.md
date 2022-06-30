@@ -57,11 +57,5 @@ https://epw80.github.io/Book-Search/
 Erik Williams
 <br />
 Anthony Ledesma
-<br />
-Mohammed Elzanaty
-
-## License
-
-Erik Williams - 2022
 
 #### ©️2022 EPW
